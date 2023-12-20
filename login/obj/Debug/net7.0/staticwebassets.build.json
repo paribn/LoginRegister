@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "35p18Ae1ZVMl1LJIyPcun/gp0mYmt4cLN2kc825UpEA=",
+  "Source": "login",
+  "BasePath": "_content/login",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "login\\wwwroot",
+      "Source": "login",
+      "ContentRoot": "C:\\Users\\Rovsen Novruzov\\Desktop\\Backpractic\\login\\login\\wwwroot\\",
+      "BasePath": "_content/login",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
